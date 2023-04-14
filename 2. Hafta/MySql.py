@@ -2,7 +2,7 @@ import mysql.connector as conn
 
 
 mydb = conn.connect(
-  host="localhost",
+  host="127.0.0.1",
   user="root",
   password="A1265913226y",
   database="classicmodels"
@@ -10,7 +10,7 @@ mydb = conn.connect(
 
 mycursor = mydb.cursor()
 
-mycursor.execute("SELECT * FROM customers limit 5")
+mycursor.execute(""" select customerName from customers  where country = "France" """)
 
 myresult = mycursor.fetchall()
 

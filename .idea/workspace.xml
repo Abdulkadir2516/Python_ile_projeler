@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33f197ba-bbde-42a3-bab0-85f3f83a8c3e" name="Changes" comment="" />
+    <list default="true" id="33f197ba-bbde-42a3-bab0-85f3f83a8c3e" name="Changes" comment="1. hafta">
+      <change afterPath="$PROJECT_DIR$/3. Hafta/creating-app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2. Hafta/MySql.py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Hafta/MySql.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +57,14 @@
       <option name="presentableId" value="Default" />
       <updated>1680214773076</updated>
     </task>
+    <task id="LOCAL-00001" summary="1. hafta">
+      <created>1680290625926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680290625926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -66,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1. hafta" />
+    <option name="LAST_COMMIT_MESSAGE" value="1. hafta" />
   </component>
 </project>
