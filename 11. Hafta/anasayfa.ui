@@ -124,7 +124,7 @@
        <string>Tüm Kullanıcılar</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton">
+     <widget class="QPushButton" name="addFriends">
       <property name="geometry">
        <rect>
         <x>190</x>
@@ -137,7 +137,7 @@
        <string>&lt;&lt;&lt; Arkadaş Ekle</string>
       </property>
      </widget>
-     <widget class="QPushButton" name="pushButton_2">
+     <widget class="QPushButton" name="removeFriends">
       <property name="geometry">
        <rect>
         <x>190</x>
