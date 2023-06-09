@@ -25,9 +25,7 @@ class myApp(QtWidgets.QMainWindow):
 
 
     def on_move(self, x, y):
-        pass
-        #print("{},{}".format(x, y))
-        #self.ui.tablo.setItem(1, 2, QtWidgets.QTableWidgetItem("{},{}".format(x, y)))#pyautogui.displayMousePosition()))
+        print("{},{}".format(x, y))
 
     def on_click(self, x, y, button, pressed):
         if pressed:
